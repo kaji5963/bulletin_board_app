@@ -65,7 +65,6 @@
 
           <div class="mb-6 mr-40">
             <p>【投稿者】{{ $board->user->name }}</p>
-            {{-- <p>【投稿者】{{ $user->name }}</p> --}}
           </div>
 
           <div class="mb-6">
